@@ -1,0 +1,9 @@
+input:invalid:focus {
+  border: solid 2px red;
+  background-color: #f74a4a31;
+}
+
+input:valid:focus {
+  border: solid 2px green;
+  background-color: #2a982a3b;
+}
